@@ -1,4 +1,4 @@
-# 🙂🥹 Mumble - Modern Chat Experience
+# 🙂 Mumble - Modern Realtime Chat Application Experience
 
 Mumble is a premium, minimalist chat client built with Java. It features a sleek dark-themed UI, voice messaging, and a focus on visual excellence and smooth user experience.
 
@@ -7,12 +7,27 @@ Mumble is a premium, minimalist chat client built with Java. It features a sleek
 
 ## ✨ Key Features
 
--   **🎨 Premium Dark Mode**: A custom-designed dark theme using FlatLaf for a seamless, Discord-like aesthetic.
--   **🎤 Voice Messaging**: Integrated voice recorder and player powered by the Java Sound API.
--   **🖼️ Profile Avatars**: Support for user profile pictures and custom avatars.
--   **💬 Modern Messaging**: Refined chat bubbles with width constraints, smart grouping, and smooth vertical spacing.
--   **📌 Message Pinning**: Keep important messages at your fingertips (*Coming soon*).
--   **🛡️ Secure Communication**: (Add security details if applicable).
+- 🎨 **Premium Dark Mode**: Custom-designed black theme with layered colors for a modern, Discord-like UI.
+- 💬 **Modern Messaging UI**: Clean chat bubbles with width constraints, proper spacing, and message grouping.
+- ⚡ **Real-Time Messaging**: Instant message delivery using Java sockets with multithreading support.
+- 👤 **Private Chat (1-to-1)**: Secure direct messaging between users with dedicated chat windows.
+- 👥 **Group Chat System**: Create and participate in group conversations with real-time broadcasting.
+- 🔁 **Reply to Messages**: Reply to specific messages with contextual preview inside chat bubbles.
+- 😀 **Emoji Support**: Integrated emoji picker with proper rendering inside messages.
+- 🎤 **Voice Messaging**: Record and send audio messages using Java Sound API with playback support.
+- 📌 **Message Pinning**: Pin important messages and access them easily at the top of chat.
+- 🗑️ **Message Deletion**: Delete sent messages with instant UI updates.
+- ✔️ **Message Status Indicators**: Visual feedback for sent (✓) and delivered (✓✓) messages.
+- 👤 **Profile Avatars**: Support for user profile pictures and dynamic avatar display.
+- 🟢 **User Status Indicators**: Online/Offline presence shown in sidebar.
+- 🔍 **User Search**: Quickly find users and initiate private chats.
+- 🧭 **Smart Sidebar Navigation**: Organized user/group list with active chat highlighting.
+- 🔄 **Multi-Client Support**: Multiple users connected simultaneously with real-time sync.
+- 🧠 **OOP-Based Architecture**: Clean modular design using object-oriented principles.
+- 🌐 **Client-Server Architecture**: Centralized server handles connections and message routing.
+- ⚙️ **Efficient Networking**: Built using Java Socket Programming with concurrent handling.
+- ⌨️ **Smart Input System**: Supports text, emoji, and quick message sending.
+- 🔒 **Secure Communication (Basic)**: Structured messaging system with scope for encryption.
 
 
 ##
@@ -28,7 +43,7 @@ Mumble is a premium, minimalist chat client built with Java. It features a sleek
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Mumble.git
+    git clone https://github.com/Soutikkk/Mumble.git
     cd Mumble
     ```
 
@@ -52,11 +67,13 @@ Mumble is a premium, minimalist chat client built with Java. It features a sleek
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]
+(LICENSE) file for details.
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ---
-*Created with ❤️ by Soutik.*
+- *(Made this for College Project...)*
+- *Created with ❤️ by Soutik.*
