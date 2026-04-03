@@ -2,7 +2,7 @@
 
 Mumble is a premium, minimalist chat client built with Java. It features a sleek dark-themed UI, voice messaging, and a focus on visual excellence and smooth user experience.
 
-![Chat UI Mockup](Screenshot.png)
+<img width="1289" height="862" alt="screenshot" src="https://github.com/user-attachments/assets/0cecd26a-bbde-41eb-90ed-2224f7f25aa8" />
 
 
 ## ✨ Key Features
