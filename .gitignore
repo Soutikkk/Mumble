@@ -1,0 +1,22 @@
+# Maven artifacts
+target/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+test_output.txt
+*.log
+
+# Personal/Sensitive data
+messages.json
+users.json
+groups.json

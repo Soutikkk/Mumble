@@ -1,0 +1,3 @@
+@echo off
+echo Starting Mumble...
+mvn compile exec:java -Dexec.mainClass="com.mumble.Main"
